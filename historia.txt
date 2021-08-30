@@ -1,0 +1,2 @@
+Esta es la historia de Floppy.
+Esta es una prueba de git reset head
