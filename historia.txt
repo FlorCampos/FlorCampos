@@ -1,2 +1,7 @@
 Esta es la historia de Floppy.
 Esta es una prueba de git reset head
+
+MASTER 1
+
+PRACTICANDO REBASE 
+Rebase es una muy mala práctica para repositorios remotos.
