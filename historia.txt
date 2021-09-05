@@ -1,5 +1,7 @@
 Esta es la historia de Floppy.
 Esta es una prueba de git reset head
+ 
+Experimento 1 
 
 MASTER 1
 MASTER 2
