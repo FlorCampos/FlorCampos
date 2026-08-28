@@ -25,7 +25,7 @@ red-teaming · GenAIOps (cost tracking, caching, guardrails, observability)
  
 ### Selected work
  
-#### Nesta - Gemini — RAG career companion, deployed in production
+#### [Nesta — RAG career companion, deployed in production](https://github.com/FlorCampos/nesta-gemini)
 Built for Her Career Conference 2026 (District3, Montréal). FastAPI + Claude for
 generation, Gemini for embeddings, Supabase/pgvector for retrieval, Redis for caching,
 Firebase for the frontend, containerized for Cloud Run.
@@ -55,7 +55,7 @@ isolated with Docker Compose. Load testing is how the caching bug above was foun
 users ever saw it.
 `DeepEval` `Ragas` `Promptfoo` `Garak` `PyRIT` `k6` `Grafana`
  
-#### Clarity — AI agent that turns raw requirements into QA artifacts
+#### [Clarity — AI agent that turns raw requirements into QA artifacts](https://github.com/FlorCampos/clarity)
 Claude + ChromaDB + Whisper, with Azure DevOps integration. Built for software teams that
 lose days translating discovery calls into test coverage.
 `Python` `Claude` `ChromaDB` `Whisper` `Streamlit`
