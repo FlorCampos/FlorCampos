@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Flor Campos Flores</h1>
+<p align="center">
   <b>GenAI &amp; Agentic Engineer</b> · Montréal, Canada<br>
   I build LLM systems in production and I test them.
 </p>
