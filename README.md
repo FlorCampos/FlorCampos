@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Flor Campos Flores</h1>
-<div align="center">
-  <pre><b><font size="+3">Flor Campos Flores</font></b></pre>
-</div>
-<p align="center">
+> [!NOTE]
+> # <div align="center">Flor Campos Flores</div>
+
   <b>GenAI &amp; Agentic Engineer</b> · Montréal, Canada<br>
   I build LLM systems in production and I test them.
 </p>
