@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/florcampos/">LinkedIn</a> ·
-  <a href="{{portfolio-url}}">Work in progress</a>
+  <a href="{{www.florcamposflores.com}}">Portafolio</a>
 </p>
 ---
  
